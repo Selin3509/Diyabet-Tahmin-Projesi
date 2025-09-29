@@ -1,2 +1,2 @@
-# Diyabet-Tahmin-Projesi
-Doktorun tedavi öncesi, hastanın diyabet hastası olup olmadığını tahmin edebileceği bir site.
+# dıabetes prediction site
+# hastanın doktor tedavısınden once kendısının dıyabet hastası olup olup olmadıgını tahmın etmek ıcın
